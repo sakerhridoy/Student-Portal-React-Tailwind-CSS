@@ -4,6 +4,11 @@
 .container{
   @apply max-w-[1170px] mx-auto;
 }
+@layer{
+  .nav-active{
+    @apply text-cyan-300 p-4 rounded-2xl transition-all duration-700
+  }
+}
 @theme{
   --font-poppins:"Poppins", sans-serif;
   --font-imprima:"Imprima", sans-serif;
