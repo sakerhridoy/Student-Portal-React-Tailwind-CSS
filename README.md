@@ -1,4 +1,4 @@
-# 🎓 Student Portal – React + Tailwind CSS
+# Student Portal – React + Tailwind CSS
 
 A modern, responsive **Student Portal Web Application** built using  
 **React + Tailwind CSS**, featuring:
